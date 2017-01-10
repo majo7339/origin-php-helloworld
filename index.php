@@ -1,5 +1,5 @@
 <?php
 
-echo "hello world from "  gethostname()
+echo "hello world from kosice "
 
 ?>
