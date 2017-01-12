@@ -1,2 +1,2 @@
 # origin-php-helloworld
-ddd
+Tutoriál k predmetu Aktuálne trendy v Informatike.
