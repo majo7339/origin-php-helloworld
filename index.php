@@ -1,5 +1,5 @@
 <?php
 
-echo "hello world from kosice "
+echo "Hello world from Kosice "
 
 ?>
